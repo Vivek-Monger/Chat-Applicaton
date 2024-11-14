@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "416402356443",
+    "project_id": "buzz-chat-a1dcf",
+    "storage_bucket": "buzz-chat-a1dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416402356443:android:565010bfa414a8c352b4fe",
+        "android_client_info": {
+          "package_name": "com.example.buzz_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416402356443-seselg70gsbs7ifr8u1udc3ojgmfhv9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buzz_chat",
+            "certificate_hash": "dbb5f25c463d52a9aad6dfd65839cceaf5eb365f"
+          }
+        },
+        {
+          "client_id": "416402356443-udc2rhcm82kngbq3v9m7bf94q9vjtj2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrfeyQCmxNSK2OW-GmEbMcgIYy7LF5aBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416402356443-udc2rhcm82kngbq3v9m7bf94q9vjtj2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "416402356443-jq5ugacggeocta9lnom1brs8p0a5bpqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.buzzChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
